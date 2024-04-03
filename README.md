@@ -2,9 +2,9 @@
 
 {{ How to Crack an Entry Level Job in Cybersecurity! - 2024 }}
 
-<img src="">
+<img src="elliot.png">
 
-
+```
 1. Learn Computer Network Fundamentals: 
 A strong understanding of networking basics is crucial for any cybersecurity professional. 
 
@@ -45,8 +45,9 @@ Connect with like-minded professionals on LinkedIn and Twitter. Networking can o
 When you encounter challenges, utilize Google and other AI tools effectively to find solutions.  
 Keep pushing yourself, be curious, and never stop learning. The journey  may be challenging, but the rewards are worth it.
 
+```
 
-Good luck on your path  to becoming a cybersecurity expert! 👍
+***Good luck on your path  to becoming a cybersecurity expert! 👍***
 
 For more updates about Offensive-Security & Hacking, 
 Follow me: <a href="https://twitter.com/7h3h4ckv157">7h3h4ckv157</a>
