@@ -1,7 +1,8 @@
 # How to Crack an Entry Level Job in Cybersecurity! - 2024 
 
 <img src="elliot.png">
-Follow these steps & kick start your career in cyber-security!
+
+- Follow these steps & kick start your career in cyber-security!
 
 ```
 1. Learn Computer Network Fundamentals: 
