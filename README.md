@@ -36,7 +36,7 @@ Engage in bug bounty programs to find and responsibly disclose security vulnerab
 Getting listed  in the Hall of Fame for finding significant security issues, or getting CVE IDs can attract attention and showcase your abilities. 
 
 11. Develop Your Own Tools:
-Automation in Security: Learn to create custom tools and scripts to automate repetitive tasks in cybersecurity. Automation skills are highly valued in the industry. Publish some of them & helps the community. 
+Automation in Security: Learn to create custom tools and scripts to automate repetitive tasks in cybersecurity. Automation skills are highly valued in the industry. Publish some of them & help the community. 
 
 12. Improve Your Network: 
 Connect with like-minded professionals on LinkedIn and Twitter. Networking can open up opportunities, and you can learn from others' experiences.
@@ -44,6 +44,41 @@ Connect with like-minded professionals on LinkedIn and Twitter. Networking can o
 13. Research Well: 
 When you encounter challenges, utilize Google and other AI tools effectively to find solutions.  
 Keep pushing yourself, be curious, and never stop learning. The journey  may be challenging, but the rewards are worth it.
+
+14. Soft Skills:
+Soft skills play a crucial role in personal and professional success. Developing and showcasing these skills can greatly enhance your employability and make you stand out as a candidate in the job market.
+
+Communication Skills
+Teamwork
+Adaptability
+Problem-solving Skills
+Creativity
+Time Management
+Leadership
+Emotional Intelligence
+Conflict Resolution
+Decision Making
+Critical Thinking
+Flexibility
+Interpersonal Skills
+Collaboration
+Networking
+Presentation Skills
+Empathy
+Negotiation Skills
+Cultural Sensitivity
+Resilience
+Work Ethic
+Positive Attitude
+Open-mindedness
+Self-motivation
+Confidence
+Active Listening
+Patience
+Diplomacy
+Self-awareness
+Dependability
+etc. 
 
 ```
 
